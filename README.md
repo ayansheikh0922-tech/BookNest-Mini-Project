@@ -6,7 +6,7 @@ Technologies Used
 - HTML
 - CSS
 - Bootstrap 5
-- 
+
 Features
 - User-friendly interface
 - Book collection display
