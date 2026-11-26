@@ -16,6 +16,9 @@ Features
 Figma Design
 [https://www.figma.com/proto/cPEK2clBwuKSE7Ft3Ekony/cws-la?node-id=4-36&p=f&t=Wt4yYlLg36epV4JN-1&scaling=contain&content-scaling=fixed&page-id=4%3A34]
 
+Figma prototype
+[https://www.figma.com/proto/cPEK2clBwuKSE7Ft3Ekony/cws-la?node-id=41-519&t=hfJlrzuU9hFpBuU7-1]
+
 Developed By:
 Ayan Sheikh,
 Sahil Lalwani,
