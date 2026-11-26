@@ -18,3 +18,5 @@ Figma Design
 
 Developed By
 Ayan Sheikh
+Sahil Lalwani
+Shourya Gupta
